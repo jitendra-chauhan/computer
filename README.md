@@ -1,14 +1,14 @@
 
 
-<h1 align="center">Hi , I'm Jay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Jitendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jitendra-chauhan"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
 <h4 align="center">
-I'm a Front End Developer based in India , As a passionate developer, I am passionate about open-source, coding, and web technologies.
+I'm a Back End Developer based in India , As a passionate developer, I am passionate about open-source, coding, and web technologies.
 	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h4>
 <br>
@@ -20,22 +20,22 @@ I'm a Front End Developer based in India , As a passionate developer, I am passi
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-chauhan&theme=algolia" alt="jitendra-chauhan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendra-chauhan&theme=algolia&layout=compact" alt="jitendra-chauhan" /></p>
 
 <br>
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+<p align="center"> <a href="https://github.com/jitendra-chauhan"><img
+      src="https://github-profile-trophy.vercel.app/?username=jitendra-chauhan&row=1&column=3&theme=algolia" alt="jitendra-chauhan" /></a>  </p>
 
 <!-- algolia -->
 <br>
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaypavasiya&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/jitendra-chauhan"><img alt="jitendra-chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jitendra-chauhan&custom_title=jitendra's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
